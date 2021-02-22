@@ -1,0 +1,8 @@
+﻿  contactHelpers.c
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(277,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(308,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(378,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(447,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(496,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(530,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  A2MS4.vcxproj -> D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\Debug\A2MS4.exe

@@ -1,0 +1,9 @@
+1)	Array has many advantages. Arrays represent multiple data items of the same type using a single name which is very useful. 
+	The elements also can be accessed randomly by using the index number. Arrays also allocate memory in contiguous memory locations for all its elements. 
+	Hence there is no chance of extra memory being allocated in case of arrays. This avoids memory overflow or shortage of memory in arrays.
+
+2)	The advantages and disadvantages of using parallel arrays are we can compare two different types of arrays and more than one value by using parallel arrays but we cannot compare the array declared with int with the array declared with char data type.
+
+3)	Initializing iterator variables to a value of zero is very good practice. Initializing any variable helps to reduce the allocation of memory.
+	So that the arrays never runs out of memory. Trying to use a uninitialized variable is always a bug. So it makes sense to minimize the probability of that bug occurring.
+	It also reduces the extra  assignment that the uninitialized variable may have which can use some memory for longer than usual.

@@ -1,0 +1,23 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NGG
+// Date:           21/07/2020   
+//==============================================
+From these two milestones, I have learned a lot of things. Firstly, through this project, I could learn the importance of the functions. 
+Every part separated into each function made me know what to code in the functions. Thus, when there were bugs, I could know where the bugs located.  
+Also, in the last lecture, we learned about the string library functions. It was good practice to use it in this project. 
+So, I could feel more confident in using these functions, which made our code clearer and simpler. Moreover, I could learn how we use pointers and arrays as function arguments. 
+I had to write a lot of code in the last milestone4 and it took a lot of time to complete it. However, this project made me use functions comfortably and help me to understand using pointers better.
+
+In this assignment, the two functions findContactIndex and getTenDigitPhone are used extensively and repeatedly. 
+By using them as a function, there are a lot of benefits. First of all, it improves readability, reduces redundant lines of code and also helps to save time. 
+Instead of writing long code again and again in other functions, we just need to call these two functions. 
+By doing this, our code got shorter and became easier to understand for other programmers too. Also, these functions improve productivity with the ability for easy, simple, and quick debugging.  
+Using these two functions avoids repetition and they increase reusability a lot. These functions help other functions work properly by providing them with valid input from the user.
+ 
+I would have liked this assignment to include the functionality to load and save the contact information. This is because, in the last lecture, we learned about some functions about fopen, fclose, connection modes, and variable for file access.
+If this assignment provided us code for saving and loading information from and to a test data file, it would have given us good practice to learn and ensure that we remember how to use it. 
+Also, in this project, when we close the contact program, the data is not stored and when we run the program again, it will not be loaded. 
+So, we need to write it again and again. But if we use those functions to keep the data, it would easier to manage the data as well.

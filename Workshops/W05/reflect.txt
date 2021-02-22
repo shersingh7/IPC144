@@ -1,0 +1,28 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NGG
+// Workshop:       5 (at-home)
+//==============================================
+
+In this workshop 5, I learned how to use “Structures” in order to save employee‘s data (Id, age, salary) for four employees. 
+Also, by using structures array, I could access each data easily when I had to add, remove employees, and update the salary of the employee.
+
+There are some advantages to using an array of structs compared to using parallel arrays. 
+First of all, it is a more efficient and easier way to manage than parallel arrays. 
+This is because if we used parallel arrays, which we have to do to create a lot of arrays for many fields, it is very time-consuming. 
+On the other hand, if we use an array of structs, we don’t need to create a lot of arrays to represent all the properties of a single entity. 
+The reason is that we already created a structure called the employee in my workshop5 and there we stored different type of variables; integers for ID, number, and age; and also double for salary in the same object. 
+Besides, if we store multiple arrays at a different location, it would be more complicated. 
+So, using an array structure, you can easily understand the code as well. 
+Another advantage is that it is easy to access so that when I had to update information for employee3’s salary in the workshop, or remove one of the employees data and add another new employee in the same spot, 
+it was easier to access a member of an object with the dot since it’s already in the same index in the same variable. 
+
+In this workshop 5, employee structure is declared in the file. But there is another preferred way of declaring a structure. 
+It is by using a header file. This is because if you have multiple c files that require the same structure information, 
+it is better to declare the structure in a header file globally so that it can be copied to all the files, which allows us to modify it easily too. 
+You can even use it with other c files as many times as you need. 
+By declaring structure in a header file, it will save a lot of time as well.
+
+Overall, this workshop helps me to learn how structure works and how to efficiently use it by making an employee data program.

@@ -1,0 +1,11 @@
+1)I did the pdeudo-coding for this workshop. It helped me alot. Its much faster to do things if they are already planned. If I didnt used the pseudo-coding then at the time of coding i had to think about the different ways of getting the solution which could have wasted a lot of time.
+
+2)The following are the names of all iteration constructs
+  2.1)for
+  2.2)while
+  2.3)do while
+  I used the For and Do While loop. The difference between while and do while loop is that in while loop,
+  condition is checked at first so if condition is not satisfied it will not execute
+  whereas in do while loop is executed first and then the condition is checked. Do while loop helps to get the answers( The code will work or not) faster as the conditions are tested before running the program which saves some time.
+
+3)I tested my solution by first building the solution in the IDE. It showed me some syntax errors and asked to initialized some variables. I used the visual studio debugger. I applied break points to know till where my code was running correctly.

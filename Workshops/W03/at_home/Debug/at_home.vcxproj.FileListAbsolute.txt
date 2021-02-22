@@ -1,0 +1,2 @@
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 3\Workshop 3\at_home\Debug\at_home.exe
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 3\Workshop 3\at_home\Debug\at_home.pdb

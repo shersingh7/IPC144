@@ -1,0 +1,3 @@
+﻿  lab.c
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Practice\w05\lab\lab.c(14,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  w05home.vcxproj -> D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Practice\w05\lab\Debug\w05home.exe

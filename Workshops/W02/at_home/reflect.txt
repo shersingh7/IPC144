@@ -1,0 +1,4 @@
+In this workshop I learned how to do calculations using operators.
+I also leanrt to use expressions.
+I also got to know how to use scanf to read the input value inserted by the user.
+I also learnt how to round off the values and limit the values shown after decimal point.

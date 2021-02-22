@@ -1,0 +1,59 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NGG
+// Date:           10-07-2020
+//==============================================
+// Assignment:     1
+// Milestone:      4
+//==============================================
+
+1. In file :-
+	(A) contacts.c
+
+			scanf("%s%*c", &yesNo);  //Before
+			scanf(" %c%*c", &yesNo); //After
+			I changed %s to %c as i just only had to store either y,Y,n or N. %s ic used to store a string which was not required.
+
+			scanf("%6[^\n]%*c", name->middleInitial);  //Before
+			scanf(" %7[^\n]%*c", name->middleInitial); //After
+			I changed %6 to %7 as the last elemet of the string is a null terminantor so we have to keep the input for 1 less element.
+
+			Before:- 
+			
+			if (yesNo == 'y' && yesNo == 'Y')
+			 {
+					printf("Please enter the contact's home phone number: ");
+					scanf("%10[^\n]%*c", numbers->home);
+			 }
+
+			After:-
+			
+			if (yesNo == 'y' || yesNo == 'Y')
+			{
+					printf("Please enter the contact's home phone number: ");
+					scanf(" %10[^\n]%*c", numbers->home);
+			}
+			
+			I changed And operator to Or operator as we are going to get just 1 input that means we will only get either y , Y , n or N. So only 1 of the options can be true. 
+				
+	(B)	contacts.h
+
+			char middleInitial[5];  //Before
+			char middleInitial[8];  //After
+			I changed the array size from 5 to 8 as the array was not able to store the period(.) of the contact's last name.
+
+2. Its like a nested Structure. A new structure can be declared inside each element of the strcuture.
+
+3. if (yesNo == 'y' || yesNo == 'Y')
+	{
+		printf("");
+		scanf(" );
+
+	}
+	is used repetitively. We could have used either do while or switch cases instead of using the if loop every time.
+
+4. %*c means it can read and ignore a character in the input. It is used to skip the unwanted characters in the input.
+
+5. format code “%[^\n]” is used as it stops taking input as the next member of the array is the null terminator. %s is not used because with it we need to specify how many inputs should be stored in the elements of the arrays.

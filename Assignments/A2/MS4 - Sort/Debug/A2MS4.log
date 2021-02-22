@@ -1,0 +1,11 @@
+﻿  a2ms4.c
+  contactHelpers.c
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(255,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(286,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(355,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(424,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(475,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(511,9): error C2143: syntax error: missing ';' before 'for'
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Assignments\A2\MS4\contactHelpers.c(509,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  contacts.c
+  Generating Code...

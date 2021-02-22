@@ -1,0 +1,4 @@
+D:\College\w05home\Debug\w05home.exe
+D:\College\w05home\Debug\w05home.pdb
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Practice\w05\lab\Debug\w05home.exe
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Practice\w05\lab\Debug\w05home.pdb

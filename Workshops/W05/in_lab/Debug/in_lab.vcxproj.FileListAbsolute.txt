@@ -1,0 +1,2 @@
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\My Workshops\W05\in_lab\Debug\in_lab.exe
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\My Workshops\W05\in_lab\Debug\in_lab.pdb

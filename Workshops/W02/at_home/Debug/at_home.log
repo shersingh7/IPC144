@@ -1,0 +1,4 @@
+﻿  cashRegister.c
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 2\Workshop 2\at_home\cashRegister.c(30,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 2\Workshop 2\at_home\cashRegister.c(31,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  at_home.vcxproj -> D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 2\Workshop 2\at_home\Debug\at_home.exe

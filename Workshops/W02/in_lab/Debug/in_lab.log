@@ -1,0 +1,5 @@
+﻿  cashRegister.c
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 2\Workshop 2\in_lab\cashRegister.c(25,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 2\Workshop 2\in_lab\cashRegister.c(29,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LINK : D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 2\Workshop 2\in_lab\Debug\in_lab.exe not found or not built by the last incremental link; performing full link
+  in_lab.vcxproj -> D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\Week 2\Workshop 2\in_lab\Debug\in_lab.exe

@@ -1,0 +1,31 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NGG
+// Date:           12/07/2020       
+//==============================================
+// Assignment:     2
+// Milestone:      2
+//==============================================
+
+In this Assignment2 - milestones (1,2) I mainly learned how to code helper functions that we need in this project. 
+Especially, the yes function was the most difficult for me to code. Because, when the value is y or Y, we had to return a value of 1, otherwise we had to return 0. 
+It was quite confusing to make it because I kept making two returns, but I figured out a useful way to set a variable to get 1 or 0 by using an if statement.  
+Also, the important part was using the clearkeyboard function. This is because using this function after the scanf() ensures that the input buffer is clear so that scanf() will wait to be input again. 
+ 
+In c language, a function is a set of codes that can be performed on a specific task. 
+We can use functions to organize our code as we can give a function name, in which you can refer it for use and call it somewhere else in the code. 
+There are a lot of benefits to using functions. First, functions can avoid repetition and they allow the code to be used in other different codes which increases reusability. 
+Also, instead of writing a long code or the same code repeatedly, we can put this code in each function, so we can just call this function whenever we need it. 
+It will make our code clear and easy to understand for other programmers too. 
+Moreover, programmers can save time because they are not making the same algorithm again. 
+ 
+I think the reason why helper functions are in a different module and not included in the “contacts” module is that it is inherently different from the contacts module. 
+Helper functions help to check conditions for the program where the contacts module offers an input program. 
+Also, Helper functions keep some useful and common functionality that we can reuse in other different codes or other projects. 
+If helper functions were included in the “contacts” module, the code would have been long and confusing. 
+So, when we have errors in the code, it would be difficult to fix or find it. 
+Separating them made the code more efficient and organized.
+
+Overall, through building contacts and contactHelpers files, I could learn the importance of writing code more modularized.

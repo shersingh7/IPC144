@@ -1,0 +1,3 @@
+﻿  home.c
+D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\My Workshops\W05\Practice\w05\home\home.c(14,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  home.vcxproj -> D:\College\Computer Programmer\SEM 1\Introduction to Programming Using C\My Workshops\W05\Practice\w05\home\Debug\home.exe
