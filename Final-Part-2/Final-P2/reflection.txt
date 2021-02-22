@@ -1,0 +1,53 @@
+Ans 1. Code started with main.
+A.
+
+69. Drone hb initiliazed with the (power, propellers).
+34. propellers set to 0.
+35. setPower(_power);
+9. power = _power;
+37. enters the loop.
+38. propellers = 3;
+39. B1 is output.
+
+B.
+propellers = 3,
+power = 9.87.
+
+2.
+A.
+71. hb is displayed.
+72. hb.display(cout)
+
+B.
+RN2
+
+
+3.
+A.
+72. hb.display(cout)
+56. "Drone propellers: 3, Power: " is outputed.
+57. getPower() is returns power and a newline.
+
+B.
+No, Virtual function is not used.
+
+
+4.
+A.
+73. setPropellers in invoked with values getPropellers() + 2.
+50. Drone tempDrone(_propl, getPower());
+51. Current object pointer is dereferenced and set to tempDrone.
+
+B.
+setPropellers() is invoked with value 8.
+Drone tempDrone(_propl, getPower());
+Current object pointer is dereferenced and set to tempDrone.
+
+
+
+
+
+74. setPropellers() is invoked with value 8.
+50. Drone tempDrone(_propl, getPower());
+51. Current object pointer is dereferenced and set to tempDrone.
+75. main returned 0.
